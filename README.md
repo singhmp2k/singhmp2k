@@ -18,6 +18,8 @@
 - Pro at turning concepts into seamless implementations
 - Versatile across Mobile Apps, micro-services, ChatBots, EHR, SAAS, ERPs, CRMs, and cloud tech
 
+##
+
 <div align="center">
 
 # Skills Overview
@@ -54,6 +56,24 @@ Secondary Skills:—
   - Tools ( Jira, Github, Slack )
 - Product Design & UX/UI:
   - Mockups, Wireframing, Prototyping, Tools ( Sketch, Invision, Illustrator, Photoshop)
+
+##
+
+<div align="center">
+
+```
+
+_______________   _______       __________       _____ 
+___    |___  _/   ___    |________  /___(_)________  /_
+__  /| |__  /     __  /| |_  ___/  __/_  /__  ___/  __/
+_  ___ |_/ /      _  ___ |  /   / /_ _  / _(__  )/ /_  
+/_/  |_/___/      /_/  |_/_/    __/ /_/  /____/ __/
+
+
+Updated On: Dec 24, 2023, 1:09 AM UTC UTC
+```
+
+</div>
 
 ##
 
