@@ -1,0 +1,40 @@
+name: UPDATE README
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main      
+  schedule: # Run workflow automatically
+    - cron: "* 1 * * *" # Runs every hr.
+permissions:
+    contents: write # To write the generated contents to the readme
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Use Node.js 📦
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20.x'
+      - run: npm ci
+      - run: node .
+      - name: Commit changes 🛎️
+        run: |
+          git add README.md
+          git config --global user.email "singhmp2k@gmail.com"
+          git config --global user.name "singhmp2k"
+          git commit -a -m "[Automated] - Add changes in README.md"
+          git pull --rebase origin main
+      - name: Push changes 🚀
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Get the blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://singhmp2k.wordpress.com/feed/,https://medium.com/feed/@singhmp2k"
