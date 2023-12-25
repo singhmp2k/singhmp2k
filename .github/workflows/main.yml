@@ -7,7 +7,7 @@ on:
     branches:
       - main      
   schedule: # Run workflow automatically
-    - cron: "* 1 * * *" # Runs every hr.
+    - cron: "*/10 * * * *" # Runs every 10 min.
 permissions:
     contents: write # To write the generated contents to the readme
 jobs:
