@@ -70,13 +70,16 @@ Secondary Skills:—
 ```
 
                                                                                         
-╔╦╗┌─┐┌─┐┬ ┬┌┐┌┬┌─┐┌─┐┬    ╔═╗┬─┐┌─┐┬ ┬┬┌┬┐┌─┐┌─┐┌┬┐
- ║ ├┤ │  ├─┤│││││  ├─┤│    ╠═╣├┬┘│  ├─┤│ │ ├┤ │   │ 
- ╩ └─┘└─┘┴ ┴┘└┘┴└─┘┴ ┴┴─┘  ╩ ╩┴└─└─┘┴ ┴┴ ┴ └─┘└─┘ ┴ 
+_______________   _______       __________       _____ 
+___    |___  _/   ___    |________  /___(_)________  /_
+__  /| |__  /     __  /| |_  ___/  __/_  /__  ___/  __/
+_  ___ |_/ /      _  ___ |  /   / /_ _  / _(__  )/ /_  
+/_/  |_/___/      /_/  |_/_/    __/ /_/  /____/ __/
                                                                                         
 
 
-Updated On: Jan 17, 2024, 11:00 PM UTC
+
+Updated On: Jan 18, 2024, 12:26 AM UTC
 ```
 
 </div>
@@ -90,7 +93,4 @@ Updated On: Jan 17, 2024, 11:00 PM UTC
 </div>
 
 <!-- BLOG-POST-LIST:START -->
-- [Mobile Apps: Native Development Vs React-Native &lpar;What to choose for Cross-Platform apps&rpar;](https://singhmp2k.wordpress.com/2020/10/29/mobile-apps-native-development-vs-react-native-what-to-choose-for-cross-platform-apps/)
-- [JavaScript Frameworks/ Libraries:  which one you should use to build web apps.](https://singhmp2k.wordpress.com/2020/10/04/javascript-frameworks-libraries-which-one-you-should-use-to-build-web-apps/)
-- [Welcome to my Blog](https://singhmp2k.wordpress.com/2020/08/14/welcome-to-my-blog/)
 <!-- BLOG-POST-LIST:END -->
