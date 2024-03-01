@@ -70,13 +70,23 @@ Secondary Skills:—
 ```
 
                                                                                         
-╔╦╗┌─┐┌─┐┬ ┬┌┐┌┬┌─┐┌─┐┬    ╔═╗┬─┐┌─┐┬ ┬┬┌┬┐┌─┐┌─┐┌┬┐
- ║ ├┤ │  ├─┤│││││  ├─┤│    ╠═╣├┬┘│  ├─┤│ │ ├┤ │   │ 
- ╩ └─┘└─┘┴ ┴┘└┘┴└─┘┴ ┴┴─┘  ╩ ╩┴└─└─┘┴ ┴┴ ┴ └─┘└─┘ ┴ 
+██████╗ ██████╗  ██████╗ ███╗   ███╗██████╗ ████████╗                                 
+██╔══██╗██╔══██╗██╔═══██╗████╗ ████║██╔══██╗╚══██╔══╝                                 
+██████╔╝██████╔╝██║   ██║██╔████╔██║██████╔╝   ██║                                    
+██╔═══╝ ██╔══██╗██║   ██║██║╚██╔╝██║██╔═══╝    ██║                                    
+██║     ██║  ██║╚██████╔╝██║ ╚═╝ ██║██║        ██║                                    
+╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝        ╚═╝                                    
+                                                                                      
+███████╗███╗   ██╗ ██████╗ ██╗███╗   ██╗███████╗███████╗██████╗ ██╗███╗   ██╗ ██████╗ 
+██╔════╝████╗  ██║██╔════╝ ██║████╗  ██║██╔════╝██╔════╝██╔══██╗██║████╗  ██║██╔════╝ 
+█████╗  ██╔██╗ ██║██║  ███╗██║██╔██╗ ██║█████╗  █████╗  ██████╔╝██║██╔██╗ ██║██║  ███╗
+██╔══╝  ██║╚██╗██║██║   ██║██║██║╚██╗██║██╔══╝  ██╔══╝  ██╔══██╗██║██║╚██╗██║██║   ██║
+███████╗██║ ╚████║╚██████╔╝██║██║ ╚████║███████╗███████╗██║  ██║██║██║ ╚████║╚██████╔╝
+╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝ 
                                                                                         
 
 
-Updated On: Mar 1, 2024, 12:28 AM UTC
+Updated On: Mar 1, 2024, 1:42 AM UTC
 ```
 
 </div>
@@ -90,7 +100,4 @@ Updated On: Mar 1, 2024, 12:28 AM UTC
 </div>
 
 <!-- BLOG-POST-LIST:START -->
-- [Mobile Apps: Native Development Vs React-Native &lpar;What to choose for Cross-Platform apps&rpar;](https://singhmp2k.wordpress.com/2020/10/29/mobile-apps-native-development-vs-react-native-what-to-choose-for-cross-platform-apps/)
-- [JavaScript Frameworks/ Libraries:  which one you should use to build web apps.](https://singhmp2k.wordpress.com/2020/10/04/javascript-frameworks-libraries-which-one-you-should-use-to-build-web-apps/)
-- [Welcome to my Blog](https://singhmp2k.wordpress.com/2020/08/14/welcome-to-my-blog/)
 <!-- BLOG-POST-LIST:END -->
