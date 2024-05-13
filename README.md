@@ -35,7 +35,6 @@
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenNLP-2C2D2D?style=for-the-badge&logo=OpenNLP&logoColor=EE4C2C" />
       <img src="https://img.shields.io/badge/DialogFlow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white" />
       <img src="https://img.shields.io/badge/Huggingface-2C2D2D?style=for-the-badge&logo=Huggingface&logoColor=white" />
       <img
         src="https://img.shields.io/badge/apache%20spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
