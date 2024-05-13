@@ -95,7 +95,6 @@
       <img src="https://img.shields.io/badge/Restful-2C2D2D?style=for-the-badge&logo=Restful&logoColor=3776AB" />
       <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
       <img src="https://img.shields.io/badge/OpenAPI-2C2D2D?style=for-the-badge&logo=OpenAPI&logoColor=3776AB" />
-
     </td>
   </tr>
 
