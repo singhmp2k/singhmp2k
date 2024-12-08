@@ -2,7 +2,7 @@
 
 <hr />
 
-- 15+ years as a skilled Project/Engineering Lead in Full Stack Software Engineering
+- 15+ years as a skilled Project/Engineering Lead.
 - Led teams of 5+ through diverse projects
 - Pro at turning concepts into seamless implementations
 - Versatile across Mobile Apps, micro-services, ChatBots, EHR, SAAS, ERPs, CRMs, and cloud tech
