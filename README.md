@@ -2,11 +2,7 @@
 
 <hr />
 
-- Software Engineer with over 18+ years of experience architecting and delivering end-to-end software solutions.
-- Adept at building and leading teams of engineers in fast-paced environments, optimizing system performance, and driving product innovation. 
-- Expertise spans Microservices, Mobile Development, SaaS, EHR, AI/LLMs, and Cloud technologies. 
-- Recognized for scaling user bases, reducing costs, and delivering complex solutions under tight deadlines.
-
+Software Engineer and hybrid individual contributor with 18+ years of experience building high-performance software systems, scaling engineering teams (10+), and driving innovation in both startups and enterprise environments. Proven success delivering full lifecycle software—from system architecture to cloud infrastructure, web/mobile development, and AI/LLM integrations.
 <hr />
 
 <div align="center">
@@ -15,15 +11,14 @@ CORE SKILLS & TECHNICAL EXPERTISE
 
 </div>
 
-- Programming Languages: JavaScript (ES6+), TypeScript, Python, Go, Java, C#, Swift, Kotlin
-- Frontend: React, Redux, Angular, Material-UI, Bootstrap, Tailwind, Webpack
-- Mobile: React Native, UI-Kitten, iOS, Android, Firebase (RTDB), Firestore
-- Backend / APIs: Node.js, GraphQL, REST APIs, OpenAPI, Swagger, Ruby on Rails, Microservices
-- Databases: MongoDB, Neo4j, MySQL, Redis, PostgreSQL, SQLite, Elasticsearch
-- Cloud / DevOps: AWS (EC2, S3, RDS, ELB, Lambda), Heroku, Docker, Kubernetes, Jenkins, GitHub 
+- Frontend: JavaScript, TypeScript, React, Angular, Material-UI, Bootstrap, Tailwind, Webpack
+- Mobile: React Native, UI-Kitten, iOS, Swift, Android, Kotlin, Firebase
+- Backend / APIs: Python, Go, Java, Node.js, Ruby on Rails, GraphQL, REST, gPRD, WebSockets, MQTT, OpenAPI, Swagger, Microservices
+- Databases: MongoDB, PostgreSQL, MySQL, Redis, Neo4j, Elasticsearch, SQLite
+- Cloud: AWS, Heroku
+- DevOps & Monitoring: Docker, Kubernetes, Jenkins, Travis, GitHub, Grafana, Kibana
 - AI / LLMs: GPT-3.5/4, LLaMA, Mistral, Florence, Stable-Diffusion, NLP (wit.ai), NLU (rasa), HuggingFace, OpenRouter
-- Tools / Methods: JIRA, Agile, Scrum
-- Product & Design: Sketch, Figma, Wireframing, Mockups, Prototyping
+- Product & Design: Agile/Scrum, Product Roadmapping, Sketch, Figma, Wireframing, Mockups, Prototyping
   
 <hr />
 
