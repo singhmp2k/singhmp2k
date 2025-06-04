@@ -12,12 +12,12 @@ CORE SKILLS & TECHNICAL EXPERTISE
 </div>
 
 - Frontend: JavaScript, TypeScript, React, Angular, Material-UI, Bootstrap, Tailwind, Webpack
-- Mobile: React Native, UI-Kitten, iOS, Swift, Android, Kotlin, Firebase
-- Backend / APIs: Python, Go, Java, Node.js, Ruby on Rails, GraphQL, REST, gPRD, WebSockets, MQTT, OpenAPI, Swagger, Microservices
+- Mobile: React Native, UI-Kitten, iOS, Android, Firebase
+- Backend / APIs: Python, Go, Java, Node.js, Ruby on Rails, GraphQL, REST, gPRD, WebSockets, MQTT, OpenAPI, Swagger, Microservices, Monolithic
 - Databases: MongoDB, PostgreSQL, MySQL, Redis, Neo4j, Elasticsearch, SQLite
 - Cloud: AWS, Heroku
 - DevOps & Monitoring: Docker, Kubernetes, Jenkins, Travis, GitHub, Grafana, Kibana
-- AI / LLMs: GPT-3.5/4, LLaMA, Mistral, Florence, Stable-Diffusion, NLP (wit.ai), NLU (rasa), HuggingFace, OpenRouter
+- AI / LLMs: GPT-3.5/4, LLaMA, Mistral, Florence, Stable-Diffusion, HuggingFace, OpenRouter, Llama.cpp, Tensorflow, OpenCV
 - Product & Design: Agile/Scrum, Product Roadmapping, Sketch, Figma, Wireframing, Mockups, Prototyping
   
 <hr />
